@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "632617035885",
+    "firebase_url": "https://daftartugas-7fcef-default-rtdb.firebaseio.com",
+    "project_id": "daftartugas-7fcef",
+    "storage_bucket": "daftartugas-7fcef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632617035885:android:e17572f3ccce833899f764",
+        "android_client_info": {
+          "package_name": "com.example.tugasfire4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQo-pI93HHoY5CgmcvCmHMxKJjpC7qv_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

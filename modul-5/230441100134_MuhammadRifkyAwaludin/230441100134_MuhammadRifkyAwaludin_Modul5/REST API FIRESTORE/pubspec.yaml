@@ -1,0 +1,31 @@
+name: tugasfire4
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  google_fonts: ^2.1.0  
+  cupertino_icons: ^1.0.8
+
+  # Firebase dependencies
+  firebase_core: ^2.30.0
+  cloud_firestore: ^4.17.5
+  firebase_database: ^10.5.0
+
+  # HTTP package
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
